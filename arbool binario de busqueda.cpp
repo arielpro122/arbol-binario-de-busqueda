@@ -1,3 +1,4 @@
+///Ariel Humberto Valle Escoto, 08 de diciembre del 2021
 #include <iostream>
 #include <cstdlib>
 using namespace std;
